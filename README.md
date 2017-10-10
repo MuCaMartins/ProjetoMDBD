@@ -1,4 +1,4 @@
-# ProjetoMDBD 2°EMIRA
+# ProjetoMDBD 2°EMIRA Campeonato :soccer: :computer:
 
 * 1-Mostre Quantos Times é patrocinado por ISMA;
 
