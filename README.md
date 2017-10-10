@@ -9,3 +9,5 @@
 * 4-Mostre o ID, nome e patrocinador, gols do time Ponte 04;
 
 * 5-Quais Times fizeram menos de 17 Gols;
+
+### :bust_in_silhouette: Alunos: Julia Souza, Murilo Martins, Rafael Sousa, Gabriel Lopes, Nawan Menandro, Hellen, Larissa T.
