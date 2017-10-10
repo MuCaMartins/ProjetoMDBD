@@ -1,0 +1,10 @@
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('1', '1', 'Inter de Emirão', '21', '7', '0', '31');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('2', '4', 'Real Marilia', '15', '5', '2', '17');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('3', '8', 'Paris São João', '12', '4', '4', '21');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('4', '9', 'Linda Chaib', '9', '3', '4', '24');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('5', '3', 'Guaçuano', '9', '3', '3', '20');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('6', '2', 'Mogi Mirim', '9', '3', '1', '19');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('7', '7', 'XVI de Dortmund', '9', '3', '5', '14');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('8', '5', 'Barueri United', '6', '2', '3', '13');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('9', '10', 'Miliandoia', '6', '2', '6', '9');
+INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('10', '6', 'Ponte 04', '3', '1', '7', '17');

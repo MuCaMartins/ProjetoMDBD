@@ -1,0 +1,10 @@
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('1', 'Inter de Emirão', 'Fly Emirates');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('2', 'Mogi Mirim', 'Isma');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('3', 'Guaçuano', 'Buriti');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('4', 'Real Marília', 'Monroe');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('5', 'Barueri United', 'Isma');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('6', 'Ponte 04', 'Broto Legal ');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('7', 'XVI de Dortmund', 'Planetário');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('8', 'Paris São João', 'Nica ');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('9', 'Linda Chaib', 'Polícia Militar ');
+INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('10', 'Milandóia ', 'Broto Legal ');
