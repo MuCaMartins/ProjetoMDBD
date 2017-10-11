@@ -1,12 +1,12 @@
 # ProjetoMDBD 2°EMIRA Campeonato :soccer: :computer:
 
-* 1-Mostre Quantos Times é patrocinado por ISMA;
+* 1-Mostre Quantos Times são patrocinados pelo ISMA;
 
-* 2-Quais foram os jogos do dia 09/04/2017 e os seus estádios;
+* 2-Quais foram os jogos do dia 09/04/2017 e os seus respectivos estádios;
 
-* 3-Indique qual Time fez mais gols em uma rodada;
+* 3-Indique qual Time fez mais gols em todo o campeonato;
 
-* 4-Mostre o ID, nome e patrocinador, gols do time Ponte 04;
+* 4-Mostre o ID, nome, patrocinador e gols do time Ponte 04;
 
 * 5-Quais Times fizeram menos de 17 Gols;
 
