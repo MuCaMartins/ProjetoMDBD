@@ -1,5 +1,5 @@
 
-```sql 
+
 --Tabela times
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('1', 'Inter de Emirão', 'Fly Emirates');
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('2', 'Mogi Mirim', 'Isma');
