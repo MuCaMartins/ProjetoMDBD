@@ -1,5 +1,6 @@
-//Tabela Times
 
+```sql 
+--Tabela times
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('1', 'Inter de Emirão', 'Fly Emirates');
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('2', 'Mogi Mirim', 'Isma');
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('3', 'Guaçuano', 'Buriti');
@@ -11,7 +12,8 @@ INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES (
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('9', 'Linda Chaib', 'Polícia Militar ');
 INSERT INTO `testecampeonato`.`times` (`id`, `nome`, `pratrocinadores`) VALUES ('10', 'Milandóia ', 'Broto Legal ');
 
-//Tabela Campeonato
+
+--Tabela Campeonato
 
 INSERT INTO `testecampeonato`.`jogos` (`id`, `data`, `nome_estadio`) VALUES ('1', '2017-10-01', 'Campo do Rogrigues');
 INSERT INTO `testecampeonato`.`jogos` (`id`, `data`, `nome_estadio`) VALUES ('2', '2017-10-01', 'Campo do Sindicato ');
@@ -59,7 +61,7 @@ INSERT INTO `testecampeonato`.`jogos` (`id`, `data`, `nome_estadio`) VALUES ('43
 INSERT INTO `testecampeonato`.`jogos` (`id`, `data`, `nome_estadio`) VALUES ('44', '2017-12-20', 'Campo do Sindicato ');
 INSERT INTO `testecampeonato`.`jogos` (`id`, `data`, `nome_estadio`) VALUES ('45', '2017-12-25', 'Campo do Papai Noel ');
 
-//Tabela Jogam
+--Tabela Jogam
 
 INSERT INTO `testecampeonato`.`jogam` (`time1_id`, `jogos_id`, `time2_id`) VALUES ('1', '1', '6');
 INSERT INTO `testecampeonato`.`jogam` (`time1_id`, `jogos_id`, `time2_id`) VALUES ('2', '2', '7');
@@ -107,7 +109,7 @@ INSERT INTO `testecampeonato`.`jogam` (`time1_id`, `jogos_id`, `time2_id`) VALUE
 INSERT INTO `testecampeonato`.`jogam` (`time1_id`, `jogos_id`, `time2_id`) VALUES ('5', '44', '8');
 INSERT INTO `testecampeonato`.`jogam` (`time1_id`, `jogos_id`, `time2_id`) VALUES ('10', '45', '9');
 
-//Tabela Resultado_Jogos
+--Tabela Resultado_Jogos
 
 INSERT INTO `testecampeonato`.`resultado_jogos` (`id_jogos`, `times_id`, `gols`) VALUES ('1', '1', '3');
 INSERT INTO `testecampeonato`.`resultado_jogos` (`id_jogos`, `times_id`, `gols`) VALUES ('1', '6', '1');
@@ -200,7 +202,7 @@ INSERT INTO `testecampeonato`.`resultado_jogos` (`id_jogos`, `times_id`, `gols`)
 INSERT INTO `testecampeonato`.`resultado_jogos` (`id_jogos`, `times_id`, `gols`) VALUES ('45', '10', '0');
 INSERT INTO `testecampeonato`.`resultado_jogos` (`id_jogos`, `times_id`, `gols`) VALUES ('45', '9', '3');
 
-//Tabela Colocação
+--Tabela Colocação
 
 INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('1', '1', 'Inter de Emirão', '21', '7', '0', '31');
 INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('2', '4', 'Real Marilia', '15', '5', '2', '17');
@@ -212,3 +214,4 @@ INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_tim
 INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('8', '5', 'Barueri United', '6', '2', '3', '13');
 INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('9', '10', 'Miliandoia', '6', '2', '6', '9');
 INSERT INTO `testecampeonato`.`classificacao` (`colocacao`, `id_time`, `nome_time`, `pontos`, `vitorias`, `derrotas`, `total_gols`) VALUES ('10', '6', 'Ponte 04', '3', '1', '7', '17');
+```
